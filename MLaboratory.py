@@ -10,7 +10,7 @@ print(".                                            .")
 print(".Welcome  this  Laboratory project  library! .")
 print(".            Nice to meet you!               .")
 print(".                                            .")
-print(".         First:write your login name        .")
+print(".         First:write your login name：      .")
 print(".                                            .")
 print("______________________________________________")
 while True:
