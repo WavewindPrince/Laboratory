@@ -30,7 +30,7 @@ print("Do you want to open Laboratory projects?(Y/N)")
 open_answer = str(input())
 while open_answer.upper() != 'Y' or open_answer.upper() != 'N':
     if open_answer.upper() == 'Y':
-        print("Let's choose your favorite game!")
+        print("Let's choose your favorite Laboratory project!")
         break
     elif open_answer.upper() == 'N':
         print("Hope to see you again!")
